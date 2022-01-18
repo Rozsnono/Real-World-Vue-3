@@ -1,1 +1,2 @@
-# Real-World-Vue-3
+# real-world-vue-3
+# Magashegyi Ádám, Rozs Norbert
